@@ -1,4 +1,4 @@
-see: see: http://spring-guides.marcuschiu.com/spring-cloud/cloud-config-and-discovery/cloud-config/spring-cloud-config.html
+see: http://spring-guides.marcuschiu.com/spring-cloud/cloud-config-and-discovery/cloud-config/spring-cloud-config.html
 
 # Run Application
 
